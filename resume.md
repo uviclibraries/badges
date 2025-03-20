@@ -23,6 +23,11 @@ Information on how to add badges to numerous platforms such as [LinkedIn] (https
 
 [Here is an additional link on how to create a collection] (https://support.badgr.com/en/knowledge/creating-a-collection-of-badges-in-badgr){:target="_blank"} 
 
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/badgr-step1.gif">
+      </div>
+      
 ### 2. Optional: Social Media and HTML Instructions
   - If you would like to share to a social media platform, click the social tab and select the corresponding social media platform. [Here is another article that outlines how to share on social media](https://support.badgr.com/en/knowledge/sharing-badges-on-social-media){:target="_blank"}
   - You can also embed the code by clicking on the HTML tab and copying the embedded code.
@@ -61,3 +66,15 @@ Note: When you earn more badges, you can revisit the collection by selecting the
 - Now you can visit your profile (top right corner) and you will see the badge located there, as well as on your eportfolio and Badgr account. 
 
 Done! Now you are able to share your digital badges through numerous platforms. 
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
