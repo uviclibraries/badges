@@ -32,7 +32,7 @@ Information on how to add badges to numerous platforms such as [LinkedIn](https:
 ### 2. Optional: Social Media and HTML Instructions
   - If you would like to share to a social media platform, click the social tab and select the corresponding social media platform. [Here is another article that outlines how to share on social media](https://support.badgr.com/en/knowledge/sharing-badges-on-social-media){:target="_blank"}
   - You can also embed the code by clicking on the HTML tab and copying the embedded code.
- <img src="images/badge-social.png" style="width:300px" alt="Sharing on Social Media">
+ <img src="images/badge-socials.png" style="width:300px" alt="Sharing on Social Media">
 Note: When you earn more badges, you can revisit the collection by selecting the collection and clicking **Add Badges**
  
 ### 3. Extension Options
@@ -63,7 +63,7 @@ Note: When you earn more badges, you can revisit the collection by selecting the
 **Received a badge on Brightspace**
 - You will receive an email, log in to the course on Brightspace, then select the badge.
 - Next, share the badge, you can share your badge to your profile and to your eportfolio.
-- At the bottom of the text box, you will see “Please provide the email address you use to login to Badgr Backpack. If you do not have a Badgr Backpack account, enter the email address you would like to use and follow the steps to register.” Fill out your email address (same as you used for your Badgr account).
+- At the bottom of the text box, you will see **“Please provide the email address you use to login to Badgr Backpack. If you do not have a Badgr Backpack account, enter the email address you would like to use and follow the steps to register.”** Fill out your email address (same as you used for your Badgr account).
 - Now you can visit your profile (top right corner) and you will see the badge located there, as well as on your eportfolio and Badgr account. 
 
 Done! Now you are able to share your digital badges through numerous platforms. 
