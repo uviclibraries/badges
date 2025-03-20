@@ -1,4 +1,4 @@
-# BADGR Backpack Sharing Instructions...
+# BADGR Badge Sharing
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/badges/
