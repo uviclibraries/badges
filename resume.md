@@ -21,13 +21,13 @@ Information on how to add badges to numerous platforms such as [LinkedIn] (https
   - Now we can share the collection by clicking on **Share Collection**, on the right hand side.
   - To add the link to your resume or to a Wordpress website, use the link tab and **copy** the URL
 
-[Here is an additional link on how to create a collection] (https://support.badgr.com/en/knowledge/creating-a-collection-of-badges-in-badgr){:target="_blank"} 
-
 <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
       <img src="images/badgr-step1.gif">
       </div>
-      
+
+[Here is an additional link on how to create a collection] (https://support.badgr.com/en/knowledge/creating-a-collection-of-badges-in-badgr){:target="_blank"} 
+
 ### 2. Optional: Social Media and HTML Instructions
   - If you would like to share to a social media platform, click the social tab and select the corresponding social media platform. [Here is another article that outlines how to share on social media](https://support.badgr.com/en/knowledge/sharing-badges-on-social-media){:target="_blank"}
   - You can also embed the code by clicking on the HTML tab and copying the embedded code.
