@@ -7,7 +7,7 @@ parent: Workshop Activities
 # BADGR Backpack Sharing Instructions
 In this workshop, you will learn multiple ways to share and create a digital badge collection that can be suitable for a personal portfolio and resume. 
 
-Information on how to add badges to numerous platforms such as [LinkedIn] (https://oac.uvic.ca/dsc/badges/){:target="_blank"} 
+Information on how to add badges to numerous platforms such as [LinkedIn](https://oac.uvic.ca/dsc/badges/){:target="_blank"} 
 
 ## 1.Badgr digital backpack (adding to your resume)
   - Login and open your backpack on [BADGR](https://badgr.com/auth/login){:target="_blank"}. Note: make sure you create an account with the same email the issuer of the badge used to provide you with a badge. 
@@ -32,7 +32,7 @@ Information on how to add badges to numerous platforms such as [LinkedIn] (https
 ### 2. Optional: Social Media and HTML Instructions
   - If you would like to share to a social media platform, click the social tab and select the corresponding social media platform. [Here is another article that outlines how to share on social media](https://support.badgr.com/en/knowledge/sharing-badges-on-social-media){:target="_blank"}
   - You can also embed the code by clicking on the HTML tab and copying the embedded code.
- 
+ <img src="images/badge-social.png" style="width:300px" alt="Sharing on Social Media">
 Note: When you earn more badges, you can revisit the collection by selecting the collection and clicking **Add Badges**
  
 ### 3. Extension Options
