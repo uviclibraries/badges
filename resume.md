@@ -16,6 +16,7 @@ Information on how to add badges to numerous platforms such as [LinkedIn] (https
   - Name your collection as **(your name) resume**, for your description write in **This is my collection of badges for my resume**
   - Now click on **Create collection**
   - Next click the **toggle on** (located beside the public tab) to make this visible to the public. It should now display a check mark.
+<img src="images/badge-toggle.png" style="width:300px" alt="Badge toggle to make portfolio public">
   - Then we can add badges by pressing **Add Badges**
   - Once all have been selected, press **Apply**
   - Now we can share the collection by clicking on **Share Collection**, on the right hand side.
