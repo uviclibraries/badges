@@ -31,8 +31,10 @@ Information on how to add badges to numerous platforms such as [LinkedIn](https:
 
 ### 2. Optional: Social Media and HTML Instructions
   - If you would like to share to a social media platform, click the social tab and select the corresponding social media platform. [Here is another article that outlines how to share on social media](https://support.badgr.com/en/knowledge/sharing-badges-on-social-media){:target="_blank"}
-  - You can also embed the code by clicking on the HTML tab and copying the embedded code.
  <img src="images/badge-socials.png" style="width:300px" alt="Sharing on Social Media">
+  - You can also embed the code by clicking on the HTML tab and copying the embedded code.
+ <img src="images/badge-html.png" style="width:300px" alt="HTML tab">
+ 
 Note: When you earn more badges, you can revisit the collection by selecting the collection and clicking **Add Badges**
  
 ### 3. Extension Options
